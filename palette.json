@@ -42,10 +42,14 @@
     "tab.activeBorderTop": "#EB5A6C",
     "panelTitle.activeBorder": "#EB5A6C",
     "editorCursor.foreground": "#F0C76C",
-    "terminalCursor.foreground": "#F0C76C",
+    "terminalCursor.foreground": "#E8E3DC",
     "terminal.ansiRed": "#EB5A6C",
-    "terminal.ansiGreen": "#F2A3AD",
-    "terminal.ansiYellow": "#F0C76C",
-    "terminal.ansiMagenta": "#F2A3AD"
+    "terminal.ansiBrightRed": "#F07F8D",
+    "terminal.ansiGreen": "#C3D4F2",
+    "terminal.ansiBrightGreen": "#DDE7F8",
+    "terminal.ansiYellow": "#F2A3AD",
+    "terminal.ansiBrightYellow": "#F7C4CA",
+    "terminal.ansiMagenta": "#C9A3D9",
+    "terminal.ansiBrightMagenta": "#DCC2E6"
   }
 }
