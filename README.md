@@ -6,6 +6,8 @@ A dark VS Code theme with enchanted-forest night, a royal blue bodice, a poisone
 
 ## Palette
 
+<p align="center"><img src="images/palette.png" alt="Forest Princess palette"></p>
+
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
