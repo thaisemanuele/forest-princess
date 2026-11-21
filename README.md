@@ -1,3 +1,5 @@
+<p align="center"><img src="images/banner.png" alt="Forest Princess" width="320"></p>
+
 # Forest Princess
 
 A dark VS Code theme with enchanted-forest night, a royal blue bodice, a poisoned red apple and a golden skirt.
