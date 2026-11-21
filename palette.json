@@ -30,9 +30,9 @@
     "enum": { "foreground": "#F0C76C", "italic": true }
   },
   "overrides": {
-    "activityBar.foreground": "#F0C76C",
-    "activityBarTop.foreground": "#F0C76C",
-    "modernActivityBarItem.activeForeground": "#F0C76C",
+    "activityBar.foreground": "#EB5A6C",
+    "activityBarTop.foreground": "#EB5A6C",
+    "modernActivityBarItem.activeForeground": "#EB5A6C",
     "activityBar.activeBorder": "#EB5A6C",
     "activityBarTop.activeBorder": "#EB5A6C",
     "activityBar.inactiveForeground": "#9DB3D6",
