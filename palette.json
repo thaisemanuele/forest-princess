@@ -3,6 +3,20 @@
   "slug": "forest-princess",
   "description": "A dark VS Code theme with enchanted-forest night, a royal blue bodice, a poisoned red apple and a golden skirt.",
   "keywords": ["theme", "dark theme", "blue", "red", "gold", "navy"],
+  "readmeTable": [
+    ["Sidebar and panels", "#0B121C"],
+    ["Editor background", "#111B29"],
+    ["Menus, inputs and widgets", "#1B2B42"],
+    ["UI accent (selection, buttons)", "#315B91"],
+    ["Text", "#E8E3DC"],
+    ["Comments", "#8D8CA6"],
+    ["Keywords, operators, tags", "#7DA6E8"],
+    ["Functions, keys, attributes", "#C3D4F2"],
+    ["Strings", "#F2A3AD"],
+    ["Types, numbers, constants, cursor", "#F0C76C"],
+    ["Highlights and links", "#A9C8F5"],
+    ["Apple red: control flow, this, regex, active icon, badges", "#EB5A6C"]
+  ],
   "colors": {
     "bgDeep": "#0B121C",
     "bgEditor": "#111B29",
