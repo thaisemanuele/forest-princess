@@ -1,0 +1,39 @@
+{
+  "name": "forest-princess",
+  "displayName": "Forest Princess",
+  "description": "A dark VS Code theme with enchanted-forest night, a royal blue bodice, a poisoned red apple and a golden skirt.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue",
+    "red",
+    "gold",
+    "navy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/forest-princess"
+  },
+  "galleryBanner": {
+    "color": "#111b29",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-princess-color-theme.json"
+      }
+    ]
+  }
+}

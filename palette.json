@@ -1,0 +1,51 @@
+{
+  "name": "Forest Princess",
+  "slug": "forest-princess",
+  "description": "A dark VS Code theme with enchanted-forest night, a royal blue bodice, a poisoned red apple and a golden skirt.",
+  "keywords": ["theme", "dark theme", "blue", "red", "gold", "navy"],
+  "colors": {
+    "bgDeep": "#0B121C",
+    "bgEditor": "#111B29",
+    "bgWidget": "#1B2B42",
+    "accent": "#315B91",
+    "text": "#E8E3DC",
+    "comment": "#8D8CA6",
+    "keyword": "#7DA6E8",
+    "func": "#C3D4F2",
+    "string": "#F2A3AD",
+    "type": "#A9C8F5",
+    "special": "#EB5A6C"
+  },
+  "tokenOverrides": {
+    "Control flow and module keywords": { "foreground": "#EB5A6C", "fontStyle": "italic" },
+    "Type, class and interface": { "foreground": "#F0C76C", "fontStyle": "italic" },
+    "Number": { "foreground": "#F0C76C" },
+    "Language constant": { "foreground": "#F0C76C" }
+  },
+  "semanticOverrides": {
+    "class": { "foreground": "#F0C76C", "italic": true },
+    "type": { "foreground": "#F0C76C", "italic": true },
+    "interface": { "foreground": "#F0C76C", "italic": true },
+    "typeParameter": { "foreground": "#F0C76C", "italic": true },
+    "enum": { "foreground": "#F0C76C", "italic": true }
+  },
+  "overrides": {
+    "activityBar.foreground": "#F0C76C",
+    "activityBarTop.foreground": "#F0C76C",
+    "modernActivityBarItem.activeForeground": "#F0C76C",
+    "activityBar.activeBorder": "#EB5A6C",
+    "activityBarTop.activeBorder": "#EB5A6C",
+    "activityBar.inactiveForeground": "#9DB3D6",
+    "activityBarTop.inactiveForeground": "#9DB3D6",
+    "activityBarBadge.background": "#EB5A6C",
+    "activityBarBadge.foreground": "#111B29",
+    "tab.activeBorderTop": "#EB5A6C",
+    "panelTitle.activeBorder": "#EB5A6C",
+    "editorCursor.foreground": "#F0C76C",
+    "terminalCursor.foreground": "#F0C76C",
+    "terminal.ansiRed": "#EB5A6C",
+    "terminal.ansiGreen": "#F2A3AD",
+    "terminal.ansiYellow": "#F0C76C",
+    "terminal.ansiMagenta": "#F2A3AD"
+  }
+}
