@@ -30,12 +30,13 @@
     "enum": { "foreground": "#F0C76C", "italic": true }
   },
   "overrides": {
-    "activityBar.foreground": "#7DA6E8",
-    "activityBarTop.foreground": "#7DA6E8",
-    "modernActivityBarItem.activeForeground": "#7DA6E8",
+    "activityBar.foreground": "#EB5A6C",
+    "activityBarTop.foreground": "#EB5A6C",
+    "modernActivityBarItem.activeForeground": "#EB5A6C",
     "activityBar.activeBorder": "#EB5A6C",
     "activityBarTop.activeBorder": "#EB5A6C",
     "modernActivityBarItem.hoverForeground": "#EB5A6C",
+    "modernActivityBarItem.activeBackground": "#1E3557",
     "activityBar.inactiveForeground": "#9DB3D6",
     "activityBarTop.inactiveForeground": "#9DB3D6",
     "activityBarBadge.background": "#EB5A6C",
